@@ -12,4 +12,4 @@ weight: 4
   - Tasks for Level 3
   - Tasks for Level 4
 
-![Local Solution](/local-solution.png)
+![Local Solution](/Local-solution.png)
